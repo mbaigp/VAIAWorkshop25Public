@@ -5,3 +5,4 @@ __pycache__
 /.venv
 /src/VAIAWorkshop.egg-info
 /data
+.ipynb_checkpoints/
