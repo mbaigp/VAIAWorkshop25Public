@@ -4,3 +4,4 @@ __pycache__
 *.png
 /.venv
 /src/VAIAWorkshop.egg-info
+/data
